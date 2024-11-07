@@ -1,0 +1,524 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/B4zRs8Z/Galaxy-S24-Ultra-review-1.webp",
+    "category": "Phones",
+    "price": 900,
+    "description": "A sleek and powerful smartphone with a top-notch camera.",
+    "specification": ["128GB Storage", "6GB RAM", "Dual Camera 12MP"],
+    "availability": true,
+    "rating": 4.7,
+    "color_options": ["Black", "Silver", "Blue"]
+  },
+  {
+    "product_id": 2,
+    "product_title": "Xiaomi 14 Ultra",
+    "product_image": "https://i.ibb.co.com/5jnSVxL/Xiaomi-14-Ultra-review-2.webp",
+    "category": "Phones",
+    "price": 150,
+    "description": "Affordable smartphone ideal for basic tasks.",
+    "specification": ["64GB Storage", "3GB RAM", "8MP Camera"],
+    "availability": true,
+    "rating": 4.0,
+    "battery_capacity": "3000mAh"
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 9 Pro XL",
+    "product_image": "https://i.ibb.co.com/mvKPBxr/Pixel-9-Pro-XL-2.webp",
+    "category": "Phones",
+    "price": 1090,
+    "description": "High-end smartphone with advanced camera capabilities.",
+    "specification": ["256GB Storage", "8GB RAM", "Triple Camera 48MP"],
+    "availability": true,
+    "rating": 4.8,
+    "camera_features": ["Night Mode", "4K Video", "Optical Zoom"]
+  },
+  {
+    "product_id": 4,
+    "product_title": "Apple iPhone 16 Plus",
+    "product_image": "https://i.ibb.co.com/YcSVnW2/i-Phone-16-Plus-Review-Featured.webp",
+    "category": "Phones",
+    "price": 923,
+    "description": "Compact smartphone for one-handed use.",
+    "specification": ["64GB Storage", "4GB RAM", "12MP Camera"],
+    "availability": false,
+    "rating": 4.3,
+    "weight": "150g"
+  },
+  {
+    "product_id": 5,
+    "product_title": "OnePlus Nord 4",
+    "product_image": "https://i.ibb.co.com/hZNCCzZ/oneplus-nord-4.webp",
+    "category": "Phones",
+    "price": 429,
+    "description": "5G-enabled phone with ultra-fast performance.",
+    "specification": ["128GB Storage", "6GB RAM", "Dual Camera 16MP"],
+    "availability": true,
+    "rating": 4.6,
+    "network": "5G"
+  },
+  {
+    "product_id": 6,
+    "product_title": "Motorola Razr 50 Ultra/Razr+ (2024)",
+    "product_image": "https://i.ibb.co.com/c8C1tvd/motorola-razr-50-ultra.webp",
+    "category": "Phones",
+    "price": 450,
+    "description": "Durable and waterproof phone ideal for outdoor use.",
+    "specification": ["64GB Storage", "4GB RAM", "13MP Camera"],
+    "availability": true,
+    "rating": 4.4,
+    "durability": ["Waterproof", "Shockproof", "Dustproof"]
+  },
+  {
+    "product_id": 7,
+    "product_title": "Apple iPhone 16 Pro Max",
+    "product_image": "https://i.ibb.co.com/NFWyNjx/i-Phone-16-Pro-Max-in-Hand.webp",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Smartphone with an extended battery life for heavy usage.",
+    "specification": ["128GB Storage", "4GB RAM", "Dual Camera 12MP"],
+    "availability": true,
+    "rating": 4.5,
+    "battery_capacity": "5000mAh"
+  },
+  {
+    "product_id": 8,
+    "product_title": "OnePlus 12 – Great all-rounder",
+    "product_image": "https://i.ibb.co.com/54N16gH/One-Plus-12-review-5.webp",
+    "category": "Phones",
+    "price": 700,
+    "description": "Smartphone with a high-resolution front camera for selfies.",
+    "specification": ["128GB Storage", "6GB RAM", "Front Camera 32MP"],
+    "availability": true,
+    "rating": 4.6,
+    "front_camera_features": ["AI Beauty", "Portrait Mode", "HDR"]
+  },
+  {
+    "product_id": 9,
+    "product_title": "CMF Phone 1 – Best budget phone",
+    "product_image": "https://i.ibb.co.com/TLhbrhS/CMF-Phone-1-review-2.webp",
+    "category": "Phones",
+    "price": 900,
+    "description": "A flagship smartphone with a stunning display and advanced features.",
+    "specification": ["256GB Storage", "8GB RAM", "Quad Camera 64MP"],
+    "availability": true,
+    "rating": 4.9,
+    "color_options": ["Black", "Silver", "Blue"]
+  },
+  {
+    "product_id": 10,
+    "product_title": "Samsung Galaxy S24+ – Superb all-rounder",
+    "product_image": "https://i.ibb.co.com/pftNW62/Galaxy-S24-plus-review-4.webp",
+    "category": "Phones",
+    "price": 844,
+    "description": "Affordable smartphone suitable for basic usage.",
+    "specification": ["32GB Storage", "2GB RAM", "8MP Camera"],
+    "availability": true,
+    "rating": 4.1,
+    "battery_capacity": "2500mAh"
+  },
+
+  {
+    "product_id": 19,
+    "product_title": "Buy Apple Watch Ultra 2",
+    "product_image": "https://i.ibb.co.com/J7KkhvK/ultra-case-unselect-gallery-1-202409.jpg",
+    "category": "Smart Watches",
+    "price": 700,
+    "description": "Stylish smartwatch with health tracking and notification features.",
+    "specification": ["Heart Rate Monitor", "GPS", "Bluetooth 5.0"],
+    "availability": true,
+    "rating": 4.6,
+    "battery_life": "2 days"
+  },
+  {
+    "product_id": 20,
+    "product_title": "Apple Watch Series 10 GPS",
+    "product_image": "https://i.ibb.co.com/7VnfrcH/31-Cud2-Wnsz-L-SX300-SY300-QL70-FMwebp.webp",
+    "category": "Smart Watches",
+    "price": 450,
+    "description": "Affordable fitness tracker with essential health and activity tracking.",
+    "specification": ["Step Counter", "Sleep Monitor", "Water Resistant"],
+    "availability": true,
+    "rating": 4.4,
+    "water_resistance": "5 ATM"
+  },
+  {
+    "product_id": 21,
+    "product_title": "Apple Watch Series 9 [GPS 41mm]",
+    "product_image": "https://i.ibb.co.com/kQkhX65/71-TMn2dn-Dy-L-SY450.jpg",
+    "category": "Smart Watches",
+    "price": 300,
+    "description": "Rugged smartwatch built for outdoor adventures.",
+    "specification": ["GPS", "Altimeter", "Compass"],
+    "availability": false,
+    "rating": 4.7,
+    "durability": ["Shockproof", "Waterproof"]
+  },
+  {
+    "product_id": 22,
+    "product_title": "Samsung Galaxy Watch Ultra (47mm, LTE, Gray)",
+    "product_image": "https://i.ibb.co.com/xH1qJTF/81i1-Vn-KQu-L-AC-UY218.jpg",
+    "category": "Smart Watches",
+    "price": 420,
+    "description": "Lightweight smartwatch with basic features.",
+    "specification": ["Bluetooth", "Step Counter", "Sleep Tracking"],
+    "availability": true,
+    "rating": 4.2,
+    "battery_life": "1 week"
+  },
+  {
+    "product_id": 23,
+    "product_title": "Fire-Boltt Snapp Smart Watch",
+    "product_image": "https://i.ibb.co.com/6FVyPBj/61-Yy-Ae-Qt-3-L-AC-UY218.jpg",
+    "category": "Smart Watches",
+    "price": 350,
+    "description": "Advanced smartwatch with in-depth health monitoring features.",
+    "specification": ["ECG", "SpO2 Monitor", "Stress Tracking"],
+    "availability": true,
+    "rating": 4.8,
+    "health_features": ["ECG", "Blood Oxygen"]
+  },
+  {
+    "product_id": 24,
+    "product_title": "Galaxy Watch7",
+    "product_image": "https://i.ibb.co.com/zNd4z6x/SCOMB6-Q6-481-Galaxy-Watch7-Product-KV-2-P-RGB-800x600.webp",
+    "category": "Smart Watches",
+    "price": 309,
+    "description": "Fashionable smartwatch with customizable watch faces.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Customizable Watch Faces",
+      "Sleep Tracking"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color_options": ["Black", "Rose Gold", "Silver"]
+  },
+  {
+    "product_id": 25,
+    "product_title": "Samsung Galaxy Watch Ultra (47mm, LTE, Silver)",
+    "product_image": "https://i.ibb.co.com/dcV97j7/51-Ow-WJjtd-GL-SX300-SY300-QL70-FMwebp.webp",
+    "category": "Smart Watches",
+    "price": 430,
+    "description": "Smartwatch with extended battery life for long-lasting usage.",
+    "specification": ["Step Counter", "Sleep Monitor", "Battery Saver Mode"],
+    "availability": true,
+    "rating": 4.4,
+    "battery_life": "30 days"
+  },
+  {
+    "product_id": 26,
+    "product_title": "VEMIGON Compatible with Samsung Galaxy Watch Ultra Strap",
+    "product_image": "https://i.ibb.co.com/8sVY2Mh/61f-ULF9-KOLL-SY395.jpg",
+    "category": "Smart Watches",
+    "price": 150,
+    "description": "Smartwatch designed for kids with safety and educational features.",
+    "specification": ["GPS Tracking", "Step Counter", "Parental Controls"],
+    "availability": true,
+    "rating": 4.3,
+    "color_options": ["Blue", "Pink", "Yellow"]
+  },
+  {
+    "product_id": 27,
+    "product_title": "Samsung Galaxy Watch 7 (44mm, Green, BT+LTE)",
+    "product_image": "https://i.ibb.co.com/19pPVyz/71z8nvyy41-L-SY450.jpg",
+    "category": "Smart Watches",
+    "price": 350,
+    "description": "Premium smartwatch with luxury design and high-end features.",
+    "specification": ["Heart Rate Monitor", "ECG", "Sapphire Crystal Display"],
+    "availability": false,
+    "rating": 4.9,
+    "materials": ["Sapphire Crystal", "Titanium"]
+  },
+  {
+    "product_id": 28,
+    "product_title": "Samsung Galaxy Watch 7 (40mm, Cream, BT) ",
+    "product_image": "https://i.ibb.co.com/jR6z43P/414q5ev-Dcx-L-SX300-SY300-QL70-FMwebp.webp",
+    "category": "Smart Watches",
+    "price": 220,
+    "description": "Smartwatch with built-in music storage and playback.",
+    "specification": ["4GB Storage", "Bluetooth Audio", "Heart Rate Monitor"],
+    "availability": true,
+    "rating": 4.6,
+    "music_storage": "500 songs"
+  },
+  {
+    "product_id": 29,
+    "product_title": "Fast Charge Pro",
+    "product_image": "https://example.com/images/fast-charge-pro.jpg",
+    "category": "Smart Chargers",
+    "price": 35,
+    "description": "High-speed charger compatible with most smartphones and tablets.",
+    "specification": [
+      "18W Fast Charging",
+      "USB-C Output",
+      "Over-Voltage Protection"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color_options": ["Black", "White"]
+  },
+  {
+    "product_id": 30,
+    "product_title": "Anker 511 USB-C GaN 30W Charger",
+    "product_image": "https://i.ibb.co.com/NCzMdjW/0a4649b0-cccb-11ee-94b6-b4a42cf8ae5b.png",
+    "category": "Smart Chargers",
+    "price": 55,
+    "description": "Sleek wireless charging pad for easy and convenient charging.",
+    "specification": [
+      "10W Wireless Charging",
+      "Non-Slip Surface",
+      "LED Indicator"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "compatibility": ["Qi-Compatible Devices"]
+  },
+  {
+    "product_id": 31,
+    "product_title": "Anker 735 Charger GaN Prime 65W",
+    "product_image": "https://i.ibb.co.com/b5VhcwJ/33b76b30-cccb-11ee-9f7a-63a23455a599.png",
+    "category": "Smart Chargers",
+    "price": 52,
+    "description": "Charger with multiple USB ports for simultaneous device charging.",
+    "specification": [
+      "4 USB Ports",
+      "Smart Charging Technology",
+      "Compact Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "total_output": "60W"
+  },
+  {
+    "product_id": 32,
+    "product_title": "Razer USB-C 130W GaN Charger",
+    "product_image": "https://i.ibb.co.com/w0C3BR9/4dcafc80-cccb-11ee-a5ff-8e7adcda1ebb.png",
+    "category": "Smart Chargers",
+    "price": 125,
+    "description": "Compact power bank with fast charging capabilities for on-the-go use.",
+    "specification": [
+      "10000mAh Capacity",
+      "Dual USB Output",
+      "LED Power Indicator"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "size": "Compact"
+  },
+  {
+    "product_id": 33,
+    "product_title": "USB C Car Charger 65W",
+    "product_image": "https://i.ibb.co.com/jhshS1F/61-POG9nv-Hu-L-AC-SX148-SY213-QL70.jpg",
+    "category": "Smart Chargers",
+    "price": 60,
+    "description": "In-car charger adapter for charging devices while driving.",
+    "specification": ["2 USB Ports", "Quick Charge 3.0", "LED Indicator"],
+    "availability": true,
+    "rating": 4.4,
+    "input_voltage": "12-24V"
+  },
+  {
+    "product_id": 34,
+    "product_title": "Tesla Wall Charger",
+    "product_image": "https://i.ibb.co.com/FzZsmMj/642a61afcf9034dbdbdda65c-tesla-hpwc-3.png",
+    "category": "Smart Chargers",
+    "price": 70,
+    "description": "Smart wall charger with automatic device detection for optimal charging.",
+    "specification": ["20W USB-C", "Compact Design", "Safety Features"],
+    "availability": false,
+    "rating": 4.9,
+    "safety_features": ["Overcharge Protection", "Short Circuit Protection"]
+  },
+  {
+    "product_id": 29,
+    "product_title": "Anker 10K Fusion",
+    "product_image": "https://i.ibb.co.com/KqSw2qP/d8440b30-5ffc-11ef-9779-7da9791cd5f9.jpg",
+    "category": "Power Banks",
+    "price": 65,
+    "description": "Lightweight and compact power bank for everyday use.",
+    "specification": [
+      "5000mAh Capacity",
+      "Single USB Output",
+      "LED Power Indicator"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "dimensions": "5.5 x 2.8 x 0.6 inches"
+  },
+  {
+    "product_id": 30,
+    "product_title": "FOtterbox Fast Charge 15,000mAh",
+    "product_image": "https://i.ibb.co.com/7zSn3q1/bbda80d0-217a-11ee-bf6d-9cfae690352f.jpg",
+    "category": "Power Banks",
+    "price": 50,
+    "description": "High-capacity power bank with fast charging capabilities.",
+    "specification": [
+      "10000mAh Capacity",
+      "Dual USB Output",
+      "Quick Charge 3.0"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color_options": ["Black", "Red"]
+  },
+  {
+    "product_id": 31,
+    "product_title": "Portable Solar Power Bank",
+    "product_image": "https://example.com/images/portable-solar-power-bank.jpg",
+    "category": "Power Banks",
+    "price": 60,
+    "description": "Eco-friendly power bank with solar charging capability.",
+    "specification": [
+      "20000mAh Capacity",
+      "Dual USB Output",
+      "Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "solar_charging": true
+  },
+  {
+    "product_id": 32,
+    "product_title": "Wireless Charging Power Bank",
+    "product_image": "https://i.ibb.co.com/x7Q64mG/infinitylab-instago-5000-blue-background.webp",
+    "category": "Power Banks",
+    "price": 50,
+    "description": "Power bank with wireless charging feature for compatible devices.",
+    "specification": [
+      "10000mAh Capacity",
+      "Wireless Output",
+      "Dual USB Output"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "wireless_output": "10W"
+  },
+  {
+    "product_id": 33,
+    "product_title": "Multi-Device Power Bank",
+    "product_image": "https://i.ibb.co.com/Vx2cww3/81-O-G49nx9-L-AC-SX569.jpg",
+    "category": "Power Banks",
+    "price": 70,
+    "description": "Power bank capable of charging multiple devices simultaneously.",
+    "specification": [
+      "26800mAh Capacity",
+      "3 USB Outputs",
+      "Smart Charging Technology"
+    ],
+    "availability": false,
+    "rating": 4.9,
+    "total_output": "5V/3A"
+  },
+  {
+    "product_id": 34,
+    "product_title": "Small Mini Portable Charger",
+    "product_image": "https://i.ibb.co.com/L5z7FCQ/51-Ctl-Kvhzj-L-AC-SL1000.jpg",
+    "category": "Power Banks",
+    "price": 60,
+    "description": "Compact and affordable power bank for on-the-go charging.",
+    "specification": ["4000mAh Capacity", "Single USB Output", "LED Indicator"],
+    "availability": true,
+    "rating": 4.3,
+    "dimensions": "4.1 x 2.4 x 0.5 inches"
+  },
+
+  {
+    "product_id": 35,
+    "product_title": "Ultra Laptop Pro",
+    "product_image": "https://i.ibb.co.com/ZNnvBLj/samsung-galaxy-book3-ultra-intel-core-i7-13700h-11704788984.webp",
+    "category": "Computers",
+    "price": 1200,
+    "description": "High-performance laptop with an advanced display and powerful processing.",
+    "specification": ["16GB RAM", "1TB SSD", "Intel i7 Processor"],
+    "availability": true,
+    "rating": 4.5,
+    "warranty": "2 years"
+  },
+  {
+    "product_id": 36,
+    "product_title": "Gaming Desktop X",
+    "product_image": "https://i.ibb.co.com/SyTzsMd/download.jpg",
+    "category": "Computers",
+    "price": 2000,
+    "description": "Ultimate gaming desktop with superior graphics and high-speed processing.",
+    "specification": ["32GB RAM", "2TB HDD", "NVIDIA RTX 3080"],
+    "availability": false,
+    "rating": 4.8,
+    "cooling_system": "Liquid Cooling"
+  },
+  {
+    "product_id": 37,
+    "product_title": "Office PC Mini",
+    "product_image": "https://i.ibb.co.com/255D5hn/GT12-GT13-PRO-1.webp",
+    "category": "Computers",
+    "price": 650,
+    "description": "Compact and efficient PC for office and home use.",
+    "specification": ["8GB RAM", "512GB SSD", "Intel i5 Processor"],
+    "availability": true,
+    "rating": 4.2,
+    "energy_star_certified": true
+  },
+  {
+    "product_id": 38,
+    "product_title": "Convertible Tablet PC",
+    "product_image": "https://i.ibb.co.com/D7z7DT5/07f8-Fmu-Wz-IKHir2-YRAXs-K7-G-1-fit-lim-size-320x180-v1716757237.jpg",
+    "category": "Computers",
+    "price": 1100,
+    "description": "Convertible laptop with touchscreen functionality, perfect for creative tasks.",
+    "specification": ["8GB RAM", "256GB SSD", "Touchscreen Display"],
+    "availability": true,
+    "rating": 4.4,
+    "battery_life": "10 hours"
+  },
+  {
+    "product_id": 39,
+    "product_title": "Developer Laptop",
+    "product_image": "https://i.ibb.co.com/zsT6qfF/ultimate-dev-machine-full.jpg",
+    "category": "Computers",
+    "price": 1500,
+    "description": "Specialized laptop for developers with enhanced multitasking capabilities.",
+    "specification": ["32GB RAM", "1TB SSD", "Intel i9 Processor"],
+    "availability": true,
+    "rating": 4.7,
+    "operating_system": "Linux pre-installed"
+  },
+  {
+    "product_id": 40,
+    "product_title": "Portable Mini PC",
+    "product_image": "https://i.ibb.co.com/WgH0F84/81-Ocb-DBVww-L-AC-SL1500.jpg",
+    "category": "Computers",
+    "price": 400,
+    "description": "Compact mini PC for portability and basic computing tasks.",
+    "specification": ["4GB RAM", "128GB SSD", "Intel Celeron Processor"],
+    "availability": true,
+    "rating": 4.1,
+    "weight": "0.5 kg"
+  },
+  {
+    "product_id": 41,
+    "product_title": "All-in-One Desktop",
+    "product_image": "https://i.ibb.co.com/M1C4MPm/633b86267b1e5a5a4b2f3bc1-hp-24-inch-all-in-one-desktop-computer.jpg",
+    "category": "Computers",
+    "price": 950,
+    "description": "Space-saving all-in-one desktop with a full HD display.",
+    "specification": ["8GB RAM", "1TB HDD", "AMD Ryzen 5"],
+    "availability": false,
+    "rating": 4.3,
+    "display_size": "23.8 inches"
+  },
+  {
+    "product_id": 42,
+    "product_title": "High-End Workstation",
+    "product_image": "https://i.ibb.co.com/qj1p4Rd/download-1.jpg",
+    "category": "Computers",
+    "price": 3000,
+    "description": "High-performance workstation for demanding professional tasks.",
+    "specification": ["64GB RAM", "2TB SSD", "Intel Xeon Processor"],
+    "availability": true,
+    "rating": 4.9,
+    "graphics_card": "NVIDIA Quadro RTX 5000"
+  }
+]

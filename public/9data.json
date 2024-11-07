@@ -1,0 +1,111 @@
+[
+  {
+    "product_id": 6,
+    "product_title": "Motorola Razr 50 Ultra/Razr+ (2024)",
+    "product_image": "https://i.ibb.co.com/c8C1tvd/motorola-razr-50-ultra.webp",
+    "category": "Phones",
+    "price": 450,
+    "description": "Durable and waterproof phone ideal for outdoor use.",
+    "specification": ["64GB Storage", "4GB RAM", "13MP Camera"],
+    "availability": true,
+    "rating": 4.4,
+    "durability": ["Waterproof", "Shockproof", "Dustproof"]
+  },
+  {
+    "product_id": 7,
+    "product_title": "Apple iPhone 16 Pro Max",
+    "product_image": "https://i.ibb.co.com/NFWyNjx/i-Phone-16-Pro-Max-in-Hand.webp",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Smartphone with an extended battery life for heavy usage.",
+    "specification": ["128GB Storage", "4GB RAM", "Dual Camera 12MP"],
+    "availability": true,
+    "rating": 4.5,
+    "battery_capacity": "5000mAh"
+  },
+  {
+    "product_id": 8,
+    "product_title": "OnePlus 12 – Great all-rounder",
+    "product_image": "https://i.ibb.co.com/54N16gH/One-Plus-12-review-5.webp",
+    "category": "Phones",
+    "price": 700,
+    "description": "Smartphone with a high-resolution front camera for selfies.",
+    "specification": ["128GB Storage", "6GB RAM", "Front Camera 32MP"],
+    "availability": true,
+    "rating": 4.6,
+    "front_camera_features": ["AI Beauty", "Portrait Mode", "HDR"]
+  },
+  {
+    "product_id": 9,
+    "product_title": "CMF Phone 1 – Best budget phone",
+    "product_image": "https://i.ibb.co.com/TLhbrhS/CMF-Phone-1-review-2.webp",
+    "category": "Phones",
+    "price": 900,
+    "description": "A flagship smartphone with a stunning display and advanced features.",
+    "specification": ["256GB Storage", "8GB RAM", "Quad Camera 64MP"],
+    "availability": true,
+    "rating": 4.9,
+    "color_options": ["Black", "Silver", "Blue"]
+  },
+  {
+    "product_id": 10,
+    "product_title": "Samsung Galaxy S24+ – Superb all-rounder",
+    "product_image": "https://i.ibb.co.com/pftNW62/Galaxy-S24-plus-review-4.webp",
+    "category": "Phones",
+    "price": 844,
+    "description": "Affordable smartphone suitable for basic usage.",
+    "specification": ["32GB Storage", "2GB RAM", "8MP Camera"],
+    "availability": true,
+    "rating": 4.1,
+    "battery_capacity": "2500mAh"
+  },
+
+  {
+    "product_id": 20,
+    "product_title": "Apple Watch Series 10 GPS",
+    "product_image": "https://i.ibb.co.com/7VnfrcH/31-Cud2-Wnsz-L-SX300-SY300-QL70-FMwebp.webp",
+    "category": "Smart Watches",
+    "price": 450,
+    "description": "Affordable fitness tracker with essential health and activity tracking.",
+    "specification": ["Step Counter", "Sleep Monitor", "Water Resistant"],
+    "availability": true,
+    "rating": 4.4,
+    "water_resistance": "5 ATM"
+  },
+  {
+    "product_id": 21,
+    "product_title": "Apple Watch Series 9 [GPS 41mm]",
+    "product_image": "https://i.ibb.co.com/kQkhX65/71-TMn2dn-Dy-L-SY450.jpg",
+    "category": "Smart Watches",
+    "price": 300,
+    "description": "Rugged smartwatch built for outdoor adventures.",
+    "specification": ["GPS", "Altimeter", "Compass"],
+    "availability": false,
+    "rating": 4.7,
+    "durability": ["Shockproof", "Waterproof"]
+  },
+  {
+    "product_id": 22,
+    "product_title": "Samsung Galaxy Watch Ultra (47mm, LTE, Gray)",
+    "product_image": "https://i.ibb.co.com/xH1qJTF/81i1-Vn-KQu-L-AC-UY218.jpg",
+    "category": "Smart Watches",
+    "price": 420,
+    "description": "Lightweight smartwatch with basic features.",
+    "specification": ["Bluetooth", "Step Counter", "Sleep Tracking"],
+    "availability": true,
+    "rating": 4.2,
+    "battery_life": "1 week"
+  },
+  {
+    "product_id": 23,
+    "product_title": "Fire-Boltt Snapp Smart Watch",
+    "product_image": "https://i.ibb.co.com/6FVyPBj/61-Yy-Ae-Qt-3-L-AC-UY218.jpg",
+    "category": "Smart Watches",
+    "price": 350,
+    "description": "Advanced smartwatch with in-depth health monitoring features.",
+    "specification": ["ECG", "SpO2 Monitor", "Stress Tracking"],
+    "availability": true,
+    "rating": 4.8,
+    "health_features": ["ECG", "Blood Oxygen"]
+  }
+]
